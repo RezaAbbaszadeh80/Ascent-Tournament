@@ -65,3 +65,8 @@ Since the Naive Bayes model showed the same results as the other methods, it was
 ## Contribution
 
 Contributions to this project are welcome. Feel free to open issues or submit pull requests to improve the code.
+
+## collaborators
+
+- **Reza Abbaszadeh**: https://github.com/RezaAbbaszadeh80
+- **Elham Hosseini**: https://github.com/EliFaveen
